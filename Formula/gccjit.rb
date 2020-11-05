@@ -1,4 +1,4 @@
-class GccJit < Formula
+class Gccjit < Formula
   desc "GNU compiler collection"
   homepage "https://gcc.gnu.org/"
   url "https://ftp.gnu.org/gnu/gcc/gcc-10.2.0/gcc-10.2.0.tar.xz"
